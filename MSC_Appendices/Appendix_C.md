@@ -1,4 +1,4 @@
-### Appendix 3
+### Appendix C
 
 Trimmomatic script used to trim sequences
 

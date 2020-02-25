@@ -1,4 +1,4 @@
-### Appendix 2
+### Appendix B
 
 
 Table S1: Sanger sequences used to confirm molecular cloning (5' to 3')
